@@ -1,1 +1,5 @@
-{"host": "localhost", "port": 8000, "dispatcher": false}
+{
+    "host": "Set local dev websocket host here",
+    "port": 8000,
+    "dispatcher": false
+}
