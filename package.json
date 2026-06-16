@@ -2,7 +2,7 @@
     "name": "Hallow",
     "version": "0.0.1",
     "private": false,
-    "dependencies": {
+    "engines": {"node": "16"}, "dependencies": {
         "underscore": "^1.13.6",
         "ws": "^8.18.0"
     }
